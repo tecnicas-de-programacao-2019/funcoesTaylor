@@ -1,7 +1,7 @@
 package SBWC;
 import java.util.ArrayList;
 
-public class Lambert {
+class Lambert {
 
     private Util util;
     public double wo(double x){

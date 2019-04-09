@@ -2,7 +2,7 @@ package SBWC;
 
 import java.util.ArrayList;
 
-public class explog {
+class explog {
 
     private Util util;
 

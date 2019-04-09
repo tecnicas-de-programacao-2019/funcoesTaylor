@@ -2,7 +2,7 @@ package SBWC;
 
 import java.util.List;
 
-public class Util {
+class Util {
 	public static double fatorial(int n) {
 		double resp = 1;
 		for(;n>1;n--) {

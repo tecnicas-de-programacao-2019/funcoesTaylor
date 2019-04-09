@@ -2,7 +2,7 @@ package SBWC;
 
 import java.util.ArrayList;
 
-public class Trig {
+class Trig {
 
     private Util util;
 
